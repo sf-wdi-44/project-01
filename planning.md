@@ -46,7 +46,7 @@ Might consist of these steps:
 * Create a page / form / route to create a new user in the database.
 * Serve the profile page and populate  it with information from the database.
 
-You can use your own <a href="https://trello.com" target="_blank">Trello</a> board to track your progress and keep you focused. Make each card a user story, and mark it with a time estimate. You can make the steps for that user story into a checklist on the card (or individual cards, if you prefer). For a more accurate estimate, double the time you think it will take. Or, if you prefer, you can track your user stories in a Google doc (or similar).
+Use your own <a href="https://trello.com" target="_blank">Trello</a> board to track your progress and keep you focused. Make each card a user story, and mark it with a time estimate. You can make the steps for that user story into a checklist on the card (or individual cards, if you prefer). For a more accurate estimate, double the time you think it will take.
 
 Add comments to your stories as you progress and complete features. By the end of your project you'll have a living log of "gotchas" you debugged and things you learned about the process of iteratively developing an app.
 
@@ -101,7 +101,7 @@ Outside-in development says you should start with the "outside" of your app - th
 Start with the basics of your view:
 
 * [ ] An `index.html` file with static data directly in the file.
-* [ ] Create a Handlebars client-side template based on the HTML structure.
+* [ ] Create a client-side template based on the HTML structure.
 * [ ] Use the template to display dynamic data from a temporary array on the client-side.
 * [ ] Run `npm init` to set up your Node/Express app.
 * [ ] Install necessary node modules, and set up boilerplate Express app.
