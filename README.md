@@ -10,7 +10,7 @@ The objective of this project is to:
 * Demonstrate mastery of topics covered during this course so far.  
 * Build a polished, published website you can share in your portfolio.  
 
-You will be working **individually** for this first project. Show us what you've got!
+You will be working **in pairs** for this first project. Show us what you've got!
 
 ## CORE REQUIREMENTS
 Make sure to do all of the following with your app.
@@ -53,13 +53,13 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## TIMELINE
 
-> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1T3A_lZtaI7uZt3kkF2wZZ7sfjczOqB8dnax3BTJkvJk/edit?usp=sharing).
+> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON OUR PROJECT SUBMISSION DOC.
 
 
-* **Wednesday, April 6th by 3:00pm** - Present your app plan to your assigned instructor. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
-* **Weekdays, April 7th-11th** - Standups @ 10:00am. Afternoon 1:1s with instructors.
-* **Monday, April 11th** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Tuesday, April 12th @ 10am** - Project due and presentations!
+* **Wednesday, September 6th by 3:00pm** - Present your app plan to your assigned instructor. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
+* **Weekdays, September 7th-11th** - Standups @ 10:00am. Afternoon 1:1s with instructors.
+* **Saturday, September 9th** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
+* **Monday, September 11th @ 3pm** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 

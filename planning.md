@@ -46,9 +46,9 @@ Might consist of these steps:
 * Create a page / form / route to create a new user in the database.
 * Serve the profile page and populate  it with information from the database.
 
-Use your own <a href="https://trello.com" target="_blank">Trello</a> board to track your progress and keep you focused. Make each card a user story, and mark it with a time estimate. You can make the steps for that user story into a checklist on the card (or individual cards, if you prefer). For a more accurate estimate, double the time you think it will take.
+You can use your own <a href="https://trello.com" target="_blank">Trello</a> board to track your progress and keep you focused. Make each card a user story, and mark it with a time estimate. You can make the steps for that user story into a checklist on the card (or individual cards, if you prefer). For a more accurate estimate, double the time you think it will take. Or, if you prefer, you can track your user stories in a Google doc (or similar).
 
-Add comments to your cards as you progress and complete features. By the end of your project you'll have a living log of "gotchas" you debugged and things you learned about the process of iteratively developing an app.
+Add comments to your stories as you progress and complete features. By the end of your project you'll have a living log of "gotchas" you debugged and things you learned about the process of iteratively developing an app.
 
 ### Wireframes
 
@@ -116,4 +116,4 @@ Once you have an index page populated with data from the database, you can move 
 
 ## Submission
 
-You must submit all of your planning deliverables in-person to your assigned instructor, *and* get approved, on **Wednesday, April 6th by 3:00pm**. Please create physical (or electronic) documents for each deliverable, and upload them to the <a href="https://trello.com" target="_blank">Trello</a> board you create for your project. For any items done on paper, please take a photo to upload to Trello.
+You must submit all of your planning deliverables in-person to your assigned instructor, *and* get approved, on **Wednesday, September 6th by 3:00pm**. Please create physical (or electronic) documents for each deliverable, and share them with an instructor.
