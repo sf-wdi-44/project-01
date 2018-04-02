@@ -56,7 +56,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 > DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON OUR PROJECT SUBMISSION DOC.
 
 
-* **Tuesday, April 3 by 3:00pm** - Present your app plan to your assigned instructor. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
+* **Tuesday, April 3 by 12:00pm** - Present your app plan to your assigned instructor. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
 * **Weekdays, April 3 - 6** - Standups @ 10:00am. Afternoon 1:1s with instructors.
 * **Friday, April 6** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
 * **Monday, April 9 @ 11am** - Project due and presentations!
